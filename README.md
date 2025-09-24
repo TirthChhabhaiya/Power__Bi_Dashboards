@@ -1,7 +1,7 @@
 ## 📸 Dashboard Preview
 
 ### Regional Analysis Dashboard
-![Regional Analysis](Screenshot_Dashboards/D3.png)
+![Regional Analysis](Screenshot_Dashbords/D3.png)
 
 ### Discount Impact Dashboard
-![Discount Impact](D6.png)
+![Discount Impact](Screenshot_Dashbords/D6.png)
